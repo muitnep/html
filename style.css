@@ -36,3 +36,10 @@ body {
 .instagram-phone img {
     height: 50rem;
 }
+
+.instagram-continue {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
