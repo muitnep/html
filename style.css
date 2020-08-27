@@ -79,3 +79,9 @@ body {
     width: 10rem;
     height: 10rem;
 }
+
+.instagram-login {
+    background-color: #0095f6;
+    color: #ffffff;
+    padding: 8px;
+}
